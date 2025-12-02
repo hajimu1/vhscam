@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/vhscam/'  // ← 이 줄 추가!
+  base: '/vhscam/'
 })
